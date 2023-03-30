@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Archief
+---
+
+![archief]({{ site.baseurl }}/assets/archief.png)
+
+[Click hier om het archief te bekijken]({{ site.baseurl }}/archief/)
+
+grote file, duurt even om te laden.

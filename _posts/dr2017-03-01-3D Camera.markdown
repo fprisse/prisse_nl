@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Richard Feineis"
+date:   2017-03-01 00:00:01 +0100
+categories:
+---
+### As Built
+
+Gisteren ontmoette ik een man die zich bezig houd met as-built documentatie in 3D
+
+Toen ik hem vervolgens uitnodigde om samen met zijn spullen bij mij thuis te komen spelen zij hij meteen ja en stond gistermorgen ook prompt op de stoep, hieronder de eerste resultaten.
+
+{% include matterport.html id=2ijfVLk3WTt %}

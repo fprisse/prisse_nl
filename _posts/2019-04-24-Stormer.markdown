@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Stormer in een plas water"
+date: 2019-04-24 00:00:01 +0100
+categories: Covid-19
+---
+
+### Mama vindt het goed :-)
+
+.. en dat is niet alle dagen zo. Mama heeft ernstig moeite heeft met toegang tot haar geheugen en daarmee tot de verdeelsleutel om alles wat er binnen komt een plaats te geven. Daardoor is er ook heel veel stom en onzinnig geworden in haar ogen. Maar wat geen twijfel lijd is:
+ - Dat de zon goed voelt
+ - Dat dingen repareren een schone zaak is
+ - Dat water fantastisch is en boten nodig zijn
+ - En dat als ik een steeksleutel vast heb, er toch iets van mij terecht is gekomen
+
+![stormer]({{ site.baseurl }}/assets/stormer.png)
+
+Vlak bij mij om de hoek zit een [bedrijfje](https://www.driebit.nl/){:target="_blank"} dat zijn roem heeft verdiend met het digitaliseren van musea. Die hebben al jaren een Stormer voor de deur liggen met de naam van het bedrijf erop. Altijd keurig schoon en droog. Tot dit voorjaar: de boot lag zover onder water dat ik me zorgen ging maken over de motor. Nu moet je je niet al te veel zorgen maken over de spullen van een ander en Ik heb altijd al exact dit model sloep willen hebben.. ik belde het bedrijf en vernam dat de boot eigendom was van de oprichters die niet meer in het bedrijf werkten. Toen ik hen uiteindelijjk sprak wilden ze hem wel aan me verkopen maar ze moesten hem eerst weer even vaarklaar maken. Toen ik hoorde dat ze hem gingen laten wegslepen naar de werf voor reparatie heb ik een bod gedaan voor de boot *"met alle, ook ongeziene, gebreken"* en hij was van mij !
+
+![vetus]({{ site.url }}/assets/vetus.png)
+
+Leeggepompt nieuwe accu erin en ... niets ! Bekabeling die nat was geweest vervangen ... Niets ! Toen ik de start motor eraf haalde liep het roestwater uit de startmotor en het motorblok. Dat eerste kon ik aan. het tweede was licht zorgelijk. Met de oude startmotor naar [Cor Wilkes](https://www.corwilkes.nl/){:target="_blank"} in far-West en met een in China geriviseerde versie weer naar huis. Erin gesleuteld (weer een halve dag verder) en ... Starten-lopen. Alles deed het, tot de verlichting toe. Moest nog wel even de carter verschonen en riemen en filters vervangen. HEBBES !
