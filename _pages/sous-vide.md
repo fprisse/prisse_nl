@@ -1,3 +1,10 @@
+---
+layout: page
+title: “Tabellen voor Sous Vide Voorgaren"
+date: 2022-04-27 00:00:01 +0100
+categories: koken
+---
+
 ## Tabellen voor Sous Vide Voorgaren
 
 | Lam | Temp | Tijd |
