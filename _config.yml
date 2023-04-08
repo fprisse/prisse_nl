@@ -1,15 +1,19 @@
 title: "Logboek"
-# author: "Default Author Name"
+author: "fp"
 description: "Voor wie het lezen wil"
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-
-theme: "minima"
-
 rss: rss
-
 show_excerpts: true
-
 excerpt_separator: <!--more-->
+
+theme: minima
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
