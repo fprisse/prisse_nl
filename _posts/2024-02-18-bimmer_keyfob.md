@@ -5,7 +5,7 @@ date:   2024-02-17 00:00:01 +0100
 categories:
 ---
 
-Op zoek naar een list voor de lege batterij van m'n BMW sleutel vond ik vele instructables met daarbij de klacht dat deze niet zonder breek- en soldeerwerk te vervangen is. Meestal met daarbij een beschuldiging van geldklopperij. Nieuwe sleutel is inderdaad niet gratis, maar een nieuwe BMW aanmerkelijk duurder,
+Op zoek naar een list voor de lege batterij van m'n autosleutel vond ik vele instructables met daarbij de klacht dat deze niet zonder breek- en soldeerwerk te vervangen is. Meestal met daarbij een beschuldiging van geldklopperij. Nieuwe sleutel is inderdaad niet gratis, maar een nieuwe auto aanmerkelijk duurder,
 
 Na 14 jaar laadde bij mij ėėn van de autosleutels niet meer op (het is een accuutje); Ruim voorbij de gemiddelde levensduur van een auto. En 14 jaar is de batterij er níét door nieuwsgierige vingers uitgepeuterd. Prima dus !
 
