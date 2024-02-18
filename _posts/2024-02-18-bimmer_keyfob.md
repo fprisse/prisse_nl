@@ -5,7 +5,7 @@ date:   2024-02-17 00:00:01 +0100
 categories:
 ---
 
-Als je op zoekt naar een oplossing voor de lege batterij van BMW sleutel vindt je vele instructables met de klacht dat deze niet zonder breek- soldeer- en herstellijmwerk te vervangen is. Vaak wordt daar nog een beschuldiging van geldklopperij aan vastgeplakt. Nieuwe sleutel is inderdaad niet gratis, maar een nieuwe BMW aanmerkelijk duurder,
+Als je op zoekt naar een oplossing voor de lege batterij van BMW sleutel vindt je vele instructables met de klacht dat deze niet zonder breek en soldeer te vervangen is. Meestal met  daarbij een beschuldiging van geldklopperij. Nieuwe sleutel is inderdaad niet gratis, maar een nieuwe BMW aanmerkelijk duurder,
 
 Na 14 jaar laad bij mij ėėn van de autosleutels niet meer op (het is een accuutje). Dat is ruim  voorbij de gemiddelde levensduur van een auto. En 14 jaar dat de batterij er niet door nieuwsgierige vingrertjes er uit is gepeuterd. Prima dus !
 
