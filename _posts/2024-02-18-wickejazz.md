@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Dansfeestje
+title: Wicked Jazz
 date: 2024-02-18 16:30:00 +0100
-categories: Vakantie
+categories: Amsterdam
 ---
 
 <video style="width:100%" controls>
