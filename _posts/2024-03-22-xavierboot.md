@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xavier Boot 
+title: Xavier Boot in Co-Creator ruimte
 date: 2024-03-22 23:30:00 +0100
 categories: Amsterdam
 ---
