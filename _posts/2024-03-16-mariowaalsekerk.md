@@ -1,0 +1,12 @@
+---
+layout: post
+title: Mario in de Waalse Kerk
+date: 2024-03-16 23:30:00 +0100
+categories: Amsterdam
+---
+
+![Mario in de Waalse Kerk](../assets/warmewinkel.png)
+
+[Mario Sarrechia](http://www.mariosarrechia.com/), die ik heb leren kannen toen hij in café Jones werkte, speelde vanavond samen met het mooie VU-kamerkoor in de Waalse kerk. Het was prachtig !
+
+]
