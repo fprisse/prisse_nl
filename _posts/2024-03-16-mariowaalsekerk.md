@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mario in de Waalse Kerk
+title: Mario Sarrechia en 't VU-kamerkoor in de Waalse Kerk
 date: 2024-03-16 23:30:00 +0100
 categories: Amsterdam
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wicked Jazz
+title: Wicked Jazz in Co-Creator ruimte
 date: 2024-02-18 16:30:00 +0100
 categories: Amsterdam
 ---
@@ -9,4 +9,4 @@ categories: Amsterdam
  <source src="/assets/video/cook_brimful.mp4">videotag not supported
  </video>
 
-Wicked Jazz organiseert 1 Maart weer een dansfeestje in de Shell-Toren. Zin in !
+Wicked Jazz organiseert 1 Maart weer een dansfeestje op de 18e van A-Toren. Zin in !
