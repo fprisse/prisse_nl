@@ -8,5 +8,3 @@ categories: Amsterdam
 ![Mario in de Waalse Kerk](../assets/mariosarrechia.png)
 
 [Mario Sarrechia](http://www.mariosarrechia.com/), die ik heb leren kannen toen hij in café Jones werkte, speelde vanavond samen met het mooie VU-kamerkoor in de Waalse kerk. Het was prachtig !
-
-]
