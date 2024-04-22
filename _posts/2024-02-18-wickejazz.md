@@ -9,4 +9,4 @@ categories: Amsterdam
  <source src="/assets/video/cook_brimful.mp4">videotag not supported
  </video>
 
-Wicked Jazz organiseert 1 Maart weer een dansfeestje op de 18e van A-Toren. Zin in !
+Wicked Jazz organiseert 1 Maart weer een dansfeestje op de 18e van de Overhoeks. Zin in !
