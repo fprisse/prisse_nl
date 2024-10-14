@@ -10,12 +10,13 @@
 | ------------- | ------------------------------------------------------------ |
 | Rekoefeningen | Hak-Bil, Huppel-Armzwaai, SchopHand 10x<br/>Pas-Knie-op-de-Grond 10x<br/>V-stand en buigen, Kniebuigingen 10x |
 | Warming-up    | Inlopen tot Lommertbrug                                      |
-| Coopertest    | 12 min zoveel mogelijk meters lopen richting Uilenburgerstraat |
+| CooperTest    | 12 min zoveel mogelijk meters lopen richting Uilenburgerstraat |
 | Cooling-down  | 5 min teruglopen (duurloop 1) met statische rekoefeningen    |
 
-NB: duurloop 1 = Stevig doorlopen (6km/u),  Duurloop 2 = Joggen, Duurloop 3 = Hardlopen (13km/h)
+NB: duurloop 1 = Mars (6km/u),  Duurloop 2 = Joggen (8km/h), Duurloop 3 = Hardlopen (13km/h)
 
-
+[Werkelijk Gelopen: 1.99km Hardlopen van 2.7km  totaal](https://onthegomap.com/s/j5ghrhuh)
+![trainingdag01](training.assets/trainingdag01.png)
 
 #### DINSDAG: 
 
@@ -453,4 +454,5 @@ NB. Duurloop 3: Moet ik minstens 13 km/u mee halen, anders niet snel genoeg
 | Squat met dumbells     | 7 kilo per hand (10x) - rust 30 sec<br/>8 kilo per hand (10x) - rust 30 sec<br/>9 kilo per hand (10x) - rust 30 sec |
 | Gewicht naar heupen    | 7 kilo per hand (10x) - rust 30 sec<br/>8 kilo per hand (10x) - rust 30 sec<br/>9 kilo per hand (10x) - rust 30 sec |
 | Gewicht omhoog + tenen | 7 kilo per hand (10x) - rust 30 sec<br/>8 kilo per hand (10x) - rust 30 sec<br/>9 kilo per hand (10x) - rust 30 sec |
+
 
