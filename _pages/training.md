@@ -35,7 +35,7 @@ NB: duurloop 1 = Mars (6km/u),  Duurloop 2 = Joggen (8km/h), Duurloop 3 = Hardlo
 | Gewicht omhoog + tenen | 5x 3 kilo per hand - rust 30 sec<br/>5x 4 kilo per hand  - rust 30 sec<br/>5x 5 kilo per hand  - rust 30 sec |
 | Full exercise          | Dumbell van grond naar heuphoogte<br/>Loop 25 meter (met het gewicht op heuphoogte<br/>Till Dumbell naar iets boven het hoofd, en op de tenen<br/>(5 herhalingen met 5 kilo per hand) |
 
-
+![training04](training.assets/trainingdag02.jpg)
 
 #### WOENSDAG = Rustdag
 
