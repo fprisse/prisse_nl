@@ -39,7 +39,7 @@ Dus niets Bose noise canceling enzo, gewoon ouderwetse GroundControl headset voo
 
 07-10-2024 Oostmahorn
 
-Voor de jachthaven hier een oude Sailor RT144 marifoon op de kopgetikt zodat zij door passanten  op kanaal 31 kunnen worden aangeroepen. Hadden ze zelf ook al geprobeert maar ze hadden niet bedacht dat kanaal 31 een duplex kanaal is en dat je dus moet zend op wat voor schepen de ontvangst frequentie is (beetje ombouwen dus). Meteen 2 gedaan, heb er nu zelf ook eentje aan de muur hier.
+Voor de jachthaven hier een oude Sailor RT144 marifoon op de kopgetikt zodat zij door passanten  op kanaal 31 kunnen worden aangeroepen. Hadden ze zelf ook al geprobeert maar ze hadden niet bedacht dat kanaal 31 een duplex kanaal is en dat je dus moet zenden op wat voor schepen de ontvangst frequentie is (beetje ombouwen dus). Meteen 2 gedaan, heb er nu zelf ook eentje aan de muur hier.
 
 ![rt144](reparaties.assets/rt144.jpg)
 
