@@ -8,11 +8,11 @@ Contactje had ik al vele malen opgepoetst en pomp ook al eens vervangen, nu een 
 
 De volgende wordt een Miele profi@work200 (van marktplaats uiteraard)
 
-## Peiker Zendmicrofoon
+## Peiker zendmicrofoon
 
 12-10-2024 Amsterdam
 
-Om de Brandweerbus helemaal compleet te maken ga ik de mic van de VHF vervangen met een originele Peiker uit die tijd, op Marktplaats voor een tientje gevonden, met met-zonder snoer.
+Om de Brandweerbus helemaal compleet te maken wil ik de mic van de VHF vervangen met een originele Peiker uit die tijd, op Marktplaats voor een tientje gevonden, met-zonder snoer.
 
 ![IMG_2154](reparaties.assets/IMG_2154.jpg)
 
