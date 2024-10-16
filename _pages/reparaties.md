@@ -110,6 +110,8 @@ In de Zomervakantie die ik ook dit jaar weer in Oostmahorn doorbracht heb ik elk
 
 Na het uitbreken van het brandweer-interieur alle roestplekken kaal gehaald met de staalborstel (maar even een nieuwe haakse slijper gekocht want op een of andere manier valt het gereedschap van Douwe allemaal precies uit elkaar als ik het in mijn handen heb). Vloer helemal vetvrij gemaakt en in de [Brandweerrode Owatrol](https://www.owatrol.nl/product/rustol-deco-owatrol-op-kleur/) gezet. Alle plekjes rondom ook gedaan hij staat namelijk voortaan buiten.
 
+En ook nog even de auto omgekat naar een volwaardige personenauto, vandaar het nieuwe kenteken
+
 
 
 ## Spulletjes oud en nieuw bewaren
