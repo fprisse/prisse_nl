@@ -1,6 +1,7 @@
-
-
-
+---
+layout: page
+title: Programma Winter 2024
+---
 
 ## Week 1 van 6
 
