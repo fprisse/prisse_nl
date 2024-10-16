@@ -18,6 +18,7 @@ minima:
 
 header_pages:
  - about.html
+ - reparaties.html
 
 include:
   - _pages
