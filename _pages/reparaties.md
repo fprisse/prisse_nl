@@ -106,6 +106,8 @@ Dus koos ik voor "zwarten" zoals ze met geweren doen. Ik belde naar [elspeet](ht
 
 In de Zomervakantie die ik ook dit jaar weer in Oostmahorn doorbracht heb ik elke dag een paar uurtjes geklust en en een uurtje online spulletjes gezocht. Zoals (legale) oranje kappen, mistachterlicht, autoradio uit jaren 80, maar ook lampjes, schakelaartjes, speciaal Mercedes gereedschap voor de motor enz enz. 
 
+![carrosserie](reparaties.assets/carrosserie.gif)
+
 Na het uitbreken van het brandweer-interieur alle roestplekken kaal gehaald met de staalborstel (maar even een nieuwe haakse slijper gekocht want op een of andere manier valt het gereedschap van Douwe allemaal precies uit elkaar als ik het in mijn handen heb). Vloer helemal vetvrij gemaakt en in de [Brandweerrode Owatrol](https://www.owatrol.nl/product/rustol-deco-owatrol-op-kleur/) gezet. Alle plekjes rondom ook gedaan hij staat namelijk voortaan buiten.
 
 
