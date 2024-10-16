@@ -17,8 +17,8 @@ minima:
 # this and add the path to the pages in order as they should show up
 
 header_pages:
- - about.html
- - reparaties.html
+ - about.md
+ - reparaties.md
 
 include:
   - _pages
