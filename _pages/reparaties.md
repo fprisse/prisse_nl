@@ -158,7 +158,7 @@ Gekocht via marktplaats en door Douwe en Felix in het zuiden van het land opgeha
 
 31-03-2024 Amsterdam
 
-Mijn electronisch deurslot (op basis van een arduino-uno) bleek (net als de meeste electronische sloten die je in de winkel kan kopen) niet bestand tegen mijn eigen Mini EMP generator (Taser met spoel). De oplossing lag er uiteindelijk de pulldown weerstand en de retourstroom diode echt bovenop de transistor te solderen. Nu niet meer hackbaar en wel vrolijk zonder sleutels de deur uit.
+Mijn electronisch deurslot (op basis van een arduino-uno) bleek (net als de meeste electronische sloten die je in de winkel kan kopen) niet bestand tegen mijn eigen Mini EMP generator [(Taser met spoel)](https://www.reddit.com/r/gadgets/comments/lw2ylh/pocket_emp_generators_are_a_thing/). De oplossing lag er uiteindelijk de pulldown weerstand en de retourstroom diode echt bovenop de transistor te solderen. Nu niet meer hackbaar en wel vrolijk zonder sleutels de deur uit.
 
 
 
