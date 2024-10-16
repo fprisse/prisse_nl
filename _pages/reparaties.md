@@ -1,3 +1,8 @@
+---
+layout: page
+title: Klusjaar 2024
+---
+
 ## Nieuw deurrelais wasmachine
 
 17-10-2924 Amsterdam
