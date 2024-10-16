@@ -49,7 +49,7 @@ Voor de jachthaven hier een oude Sailor RT144 marifoon op de kopgetikt zodat zij
 
 23-08-2024 Oostmahorn
 
-Het is welliswaar niet verplicht op mijn old-timer, mistachterlicht. Maar die schroeven ze tegenwoordig niet voor niets op auto's. Dus alvorens er een nietsvermoedende vrachtwagenchauffeur bij mij naar binnen rijd daar de bedrading voor aangelegd. Op [motor-talk.de](https://www.motor-talk.de) kon iemand mij haarfijn uitleggen hoe ik dat moest aanpakken. ![mistlicht](/Users/admin/Desktop/mistlicht.jpg)
+Het is welliswaar niet verplicht op mijn old-timer, mistachterlicht. Maar die schroeven ze tegenwoordig niet voor niets op auto's. Dus alvorens er een nietsvermoedende vrachtwagenchauffeur bij mij naar binnen rijd daar de bedrading voor aangelegd. Op [motor-talk.de](https://www.motor-talk.de) kon iemand mij haarfijn uitleggen hoe ik dat moest aanpakken. ![mistlicht](reparaties.assets/mistlicht.jpg)
 
 
 
