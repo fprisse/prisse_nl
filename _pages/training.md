@@ -59,7 +59,7 @@ NB: Duurloop 2 betekent joggen in een tempo dat je nog steeds goed kan praten
 | ---------------- | ---------------------------------------------------- |
 | Mars 4 kilometer | 6 km/u op hoge wandelschoenen en (warm) trainingspak |
 
-![training02](training.assets/training02.png)
+![training02](training.assets/mars01.png)
 
 | Sportschool: Rompstabiliteit |                                            |
 | ---------------------------- | ------------------------------------------ |
