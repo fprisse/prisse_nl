@@ -17,7 +17,7 @@ title: Programma Winter 2024
 NB: duurloop 1 = Mars (6km/u),  Duurloop 2 = Joggen (8km/h), Duurloop 3 = Hardlopen (13km/h)
 
 [Werkelijk Gelopen: 1.99km Hardlopen van 2.7km  totaal](https://onthegomap.com/s/j5ghrhuh)
-![trainingdag01](trainingdag01.png)
+![trainingdag01](training.assets/trainingdag01.png)
 
 
 
