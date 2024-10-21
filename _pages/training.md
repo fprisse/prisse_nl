@@ -90,6 +90,9 @@ NB: Duurloop 2 betekent joggen in een tempo dat je nog steeds goed kan praten
 | Cooling-down        | 5 min uitlopen met statische rekoefeningen                   |
 
 
+[Werkelijk Gelopen: 2.32km Hardlopen van 1.8km totaal in 20 min](https://onthegomap.com/s/9mj3e27h)
+![trainingdag01](training.assets/run2.png)
+
 
 #### DINSDAG: 
 
