@@ -152,7 +152,8 @@ Zuiderbad banenzwemmen
 | ---------------- | ---------------------------------------------------- |
 | Mars 5 kilometer | 6 km/u op hoge wandelschoenen en (warm) trainingspak |
 
-![training02](training.assets/training03.png)
+[Werkelijk Gelopen: 5.34km Mars (120 passen/min) in 56 min](https://onthegomap.com/s/bl7mhic3)
+![mars02](training.assets/mars02.png)
 
 | Rompstabiliteit   |                                                              |
 | ----------------- | ------------------------------------------------------------ |
