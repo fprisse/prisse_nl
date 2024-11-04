@@ -182,7 +182,9 @@ Zuiderbad banenzwemmen
 | Kern                | 1200 m in 10 min => Lommertbrug, Vas Diaz Monument<br/>2 min rustig wandelen => Jonas Daniel Meijerplein<br/>1000 meter in 8 m => tot Lommertbrug |
 | Cooling-down        | 5 min uitlopen (duurloop 1) met statische rekoefeningen      |
 
-
+Niet gerend vandaag, wel gelopen met de niewue schoenen: 
+[Werkelijk Gelopen: 4,88km Mars (120 passen/min) in 39 min](https://onthegomap.com/s/odmtokt2))
+![mars03](training.assets/mars03.png)
 
 #### DINSDAG: 
 
