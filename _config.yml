@@ -29,3 +29,6 @@ defaults:
       type: "pages"
     values:
       permalink: /:basename/ # make URL of pages in the folder _pages as on the root
+
+plugins:
+  - jekyll-feed
