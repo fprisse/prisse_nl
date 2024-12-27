@@ -292,11 +292,14 @@ Niet gerend vandaag, wel gelopen met de niewue schoenen:
 | Kern                | Extensieve interval, op tempo van de 12 minutenloop of iets sneller<br/>2 min - 3 min - 4 min - 3 min- 2 min (hard)<br/>Rust is steeds 2 minuten wandel/dribbel. |
 | Cooling-down        | 5 min uitlopen (duurloop 1) met statische rekoefeningen      |
 
-#### VRIJDAG
+#### VRIJDAG (27 Decemeber 2024)
 
 | Mars           |                                                              |
 | -------------- | ------------------------------------------------------------ |
 | 3 x 2000 meter | 5.5 km/u (= 66 sec / 100 m), wandelschoenen, trainingspak, rugzak 10 kg,<br/>rust 5 min na iedere serie |
+
+Werkelijk gelopen 6160 meter, geen rust, geen bepakking
+![20231227_fp_run](training.assets/20231227_fp_run.png)
 
 ### 
 
