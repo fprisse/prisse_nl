@@ -4,6 +4,12 @@ This page compiles the latest posts from the Mastodon user @fenep. Below are the
 
 ---
 
+## [Florent Prisse](https://mastodon.social/@fenep/113783809715691210) - 06/01/2025 22:39:11 
+
+American Splendor. Best movie for a rainy night alone in the house. Prepare to cry a little.
+
+---
+
 ## [Florent Prisse](https://mastodon.social/@fenep/113720585943168733) - 26/12/2024 18:40:32 
 
 ---<br />layout: post<br />title:  &quot;Welcome to Jekyll!&quot;<br />date:   2024-11-26 16:16:01 -0600<br />Author: Florent<br />---You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
