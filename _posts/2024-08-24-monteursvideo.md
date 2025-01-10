@@ -13,4 +13,4 @@ In de 34e minuut van de 43 minuten durende film wordt exact mijn klacht  besprok
 
 Het scenario-denken wat aan de film ten gronsdslag ligt is prachtig en een voorbeeld voor de AM proffesional van vandaag.
 
-[![YOUTUBE](https://img.youtu.be/vi/nWB1Azz-8_U/0.jpg)](https://www.youtu.be/watch?v=YnWB1Azz-8_U
+[![YOUTUBE](https://img.youtu.be/vi/nWB1Azz-8_U/0.jpg)](https://www.youtu.be/watch?v=YnWB1Azz-8_U)
