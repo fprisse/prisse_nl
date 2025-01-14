@@ -4,6 +4,22 @@ This page compiles the latest posts from the Mastodon user @fenep. Below are the
 
 ---
 
+## [Florent Prisse](https://mastodon.social/@fenep/113827818419042316) - 14/01/2025 17:11:10 
+
+<span class="h-card" translate="no"><a href="https://mastodon.social/@BMHalsema" class="u-url mention">@<span>BMHalsema</span></a></span> <span class="h-card" translate="no"><a href="https://mastodon.social/@Marleen" class="u-url mention">@<span>Marleen</span></a></span> <span class="h-card" translate="no"><a href="https://social.amsterdam.nl/@socialadmin" class="u-url mention">@<span>socialadmin</span></a></span> die dus !
+
+Mentions: [@BMHalsema](https://mastodon.social/@BMHalsema) [@Marleen](https://mastodon.social/@Marleen) [@socialadmin](https://social.amsterdam.nl/@socialadmin) 
+
+---
+
+## [Florent Prisse](https://mastodon.social/@fenep/113827769247436039) - 14/01/2025 16:58:40 
+
+<span class="h-card" translate="no"><a href="https://mastodon.social/@BMHalsema" class="u-url mention">@<span>BMHalsema</span></a></span> <span class="h-card" translate="no"><a href="https://mastodon.social/@Marleen" class="u-url mention">@<span>Marleen</span></a></span> dat is het zeker, het mooie, en ook in het begin wel een beetje het ingewikkelde, is dat moderatie per “instance” plaatsvind. Waarmee mijn volgende vraag meteen ook klaarligt. Waarop post u niet via de eigen officiële instance van de gemeente Amsterdam <a href="https://social.amsterdam.nl/about" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">social.amsterdam.nl/about</span><span class="invisible"></span></a>
+
+Mentions: [@BMHalsema](https://mastodon.social/@BMHalsema) [@Marleen](https://mastodon.social/@Marleen) 
+
+---
+
 ## [Florent Prisse](https://mastodon.social/@fenep/113827718968388587) - 14/01/2025 16:45:53 
 
 <span class="h-card" translate="no"><a href="https://mastodon.social/@freediverx" class="u-url mention">@<span>freediverx</span></a></span> <span class="h-card" translate="no"><a href="https://toot.cafe/@chartier" class="u-url mention">@<span>chartier</span></a></span> I did
