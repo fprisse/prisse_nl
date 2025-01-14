@@ -332,7 +332,7 @@ Werkelijk gelopen 6160 meter, geen rust, geen bepakking
 
 NB. Duurloop 3: Moet ik minstens 13 km/u mee halen, anders niet snel genoeg
 
-
+![20240114_run](training.assets/20240114_run.png)
 
 #### DINSDAG: 
 
