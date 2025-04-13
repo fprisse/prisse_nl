@@ -5,7 +5,7 @@ date: 2024-12-19 00:00:01 +0100
 categories: Studie
 ---
 
-6 Februari start ik met de post-doc  "Internationaal Recht van het Gewapende Conflict" aan de UvA. 
+6 Februari start ik met de post-master  "Internationaal Recht van het Gewapende Conflict" aan de UvA. 
 
 Leek me  wel actueel :-)
 
