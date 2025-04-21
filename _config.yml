@@ -2,6 +2,8 @@ title: "Logboek"
 author: "fp"
 description: "Voor wie het lezen wil"
 
+permalink: /:slug.html
+
 rss: rss
 show_excerpts: true
 excerpt_separator: <!--more-->
