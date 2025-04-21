@@ -9,6 +9,6 @@ categories: Studie
 
 Leek me  wel actueel :-)
 
-![militairrecht]({{ site.baseurl }}/assets/2024-12-19_militairrecht.jpg)  
+![militairrecht](../assets/2024-12-19_militairrecht.jpg)  
 
 Nu mijn volkenrecht basiskennis nog een beetje opkrikken in 3 weken
