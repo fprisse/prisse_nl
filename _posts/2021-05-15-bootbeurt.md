@@ -7,6 +7,6 @@ categories: corona
 
 ### Boot weer helemaal klaar voor de zomer
 
-![beurtboot]({{ site.baseurl }}/assets/beurtboot.png)
+![beurtboot](../assets/beurtboot.png)
 
 Zit er allemaal al weer in: nieuwe filters en schone olie

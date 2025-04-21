@@ -9,6 +9,6 @@ categories: corona
 
 Mini uitbraakje op het werk
 
-![210715test]({{ site.baseurl }}/assets/210715test.png)
+![210715test](../assets/210715test.png)
 
 Maar ik heb in ieder geval geen mensen op mijn verjaarsfeest kunnen aansteken, over vijf dagen nogeens testen maar.

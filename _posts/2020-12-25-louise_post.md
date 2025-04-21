@@ -6,7 +6,7 @@ categories: mama
 ---
 ##### Naarden 24 Augustus 1942 - Amsterdam 19 December 2020
 
-![louisedonker]({{ site.baseurl }}/assets/louisedonker.jpg)  
+![louisedonker](../assets/louisedonker.jpg)  
 
 ### Mama is zaterdag in onze armen overleden.
 

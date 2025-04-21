@@ -9,7 +9,7 @@ categories: Artikelen
 
 Mindfulness has gone mainstream, with celebrity endorsement from Oprah Winfrey and Goldie Hawn. Meditation coaches, monks and neuroscientists went to Davos to impart the finer points to CEOs attending the World Economic Forum. The founders of the mindfulness movement have grown evangelical. Prophesying that its hybrid of science and meditative discipline “has the potential to ignite a universal or global renaissance”, the inventor of Mindfulness-Based Stress Reduction (MBSR), [Jon Kabat-Zinn](https://www.theguardian.com/lifeandstyle/2017/oct/22/mindfulness-jon-kabat-zinn-depression-trump-grenfell){:target="_blank"}, has bigger ambitions than conquering stress. Mindfulness, he proclaims, “may actually be the only promise the species and the planet have for making it through the next couple of hundred years”.
 
-![mindfulness]({{ site.baseurl }}/assets/mindful.png)
+![mindfulness](../assets/mindful.png)
 
 So, what exactly is this magic panacea? In 2014, Time magazine put a youthful blonde woman on its [cover](http://content.time.com/time/covers/0,16641,20140203,00.html){:target="_blank"}, blissing out above the words: “The Mindful Revolution.” The accompanying feature described a signature scene from the standardised course teaching MBSR: eating a raisin very slowly. “The ability to focus for a few minutes on a single raisin isn’t silly if the skills it requires are the keys to surviving and succeeding in the 21st century,” the author explained.
 

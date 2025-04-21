@@ -9,7 +9,7 @@ categories: Covid-19
 
 Na bijna 11 jaar samenspel lijkt het er nu op dat Mozes uit het script is geschreven. Hij at al twee weken slecht en op het laatst niets meer. De dierenarts bevestigde wat ik ook al had gevoeld: harde knobbels in zijn buik. We bespraken een waaier aan mogelijke oorzaken en besloten dat verder onderzoek nu niet zou helpen. Het enige wat hij zou kunnen overleven van dat alles is een ontstekking in zijn buik. Hij krijgt nu antobiotica. Nooit geschoten enzovoort.
 
-![Mozes in de Auto]({{ site.baseurl }}/assets/mozes-auto.jpg)
+![Mozes in de Auto](../assets/mozes-auto.jpg)
 
 Dit is het beest op de terugweg van de dierenarts, nog steeds lief en vrolijk
 

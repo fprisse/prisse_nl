@@ -11,7 +11,7 @@ Het was in 2017 dat ik in een speurtocht naar alternatieve bankvormen tegen Sard
 
 Bij het opschonen van onaffe posts kwam ik het 'm weer tegen en bedacht dat het misschien weer tijd is voor een locale list.
 
-![sardegna]({{ site.baseurl }}/assets/sardegna.jpg)
+![sardegna](../assets/sardegna.jpg)
 
 Waar Sardex in voorziet is het volgende: Na de krediet crisis is geld lenen heel goedkoop geworden (eigenlijk gesubsidieerd) maar zijn de eisen aan portfeuillebeheer voor banken heel streng gemaakt. Genant kort door de bocht komt het er op neer dat grote bedrijven vrijwel grenzeloos voor een habbekrats kunnen lenen, omdat ze door alle hoepels kunnen springen, en de kleine ondernemer klein moet blijven.
 

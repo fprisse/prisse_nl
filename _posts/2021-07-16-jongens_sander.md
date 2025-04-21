@@ -10,5 +10,5 @@ categories: vroeger
 Sander, kon niet naar mijn feestje komen, stuurde me deze foto.
 Vamavond komt hij naar Amsterdam en gaan we samen lekker eten.
 
-![jongens_sander]({{ site.baseurl }}/assets/jongens_sander.jpg)
+![jongens_sander](../assets/jongens_sander.jpg)
 vlnr. een vlam van Bas, Tammo, Bas, Hlgo, Ikke en Sander

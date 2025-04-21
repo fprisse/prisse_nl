@@ -7,7 +7,7 @@ categories: Vakantie
 
 ### Gelukzalige aanvaring
 
-![confiance]({{ site.baseurl }}/assets/confiance.png)
+![confiance](../assets/confiance.png)
 
 Zoals altijd als ik langs de oostelijke eilanden vaar moet er druk gezwaaid worden naar Charlotte aan boord van Confiance.  
 

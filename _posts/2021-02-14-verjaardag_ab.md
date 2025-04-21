@@ -12,4 +12,4 @@ categories: friesland
 
 Gisteren had ik de grote eer om, naast 11 van haar vriendjes, uitgenodigd te worden op de 6e verjaardag van Anne-Beitske. Het was tegelijkertijd ook de ultime vuurdoop voor Koen, die voorbeeldig de hele dag om de kinderen heen dartelde.
 
-De volgende morgen heb ik mij aangesloten bij de "Râne-stedske Feriening fan IIsmasters" om mij veiliger dan ooit over de swarte plak te laten leiden ![ijsprikken]({{ site.baseurl }}/assets/ijsprikken.png)
+De volgende morgen heb ik mij aangesloten bij de "Râne-stedske Feriening fan IIsmasters" om mij veiliger dan ooit over de swarte plak te laten leiden ![ijsprikken](../assets/ijsprikken.png)

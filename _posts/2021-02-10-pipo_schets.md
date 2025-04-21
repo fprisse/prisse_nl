@@ -7,6 +7,6 @@ categories: Gaastmeer
 
 ### Nu al leuk !
 
-![pipo_schets]({{ site.baseurl }}/assets/pipo_schets.jpg)
+![pipo_schets](../assets/pipo_schets.jpg)
 
 Vorige week bij de [fiction factory](https://www.fictionfactory.nl/en/who/workshop/){:target="_blank"} op bezoek geweest, Ik overweeg hen mijn nieuwe Pipowagen voor Gaastmeer te laten bouwen. Ik werd er helemaal blij van, als de voorpret indicatief is voor het resultaat dan wordt het prachtig. Nu nog even puzzelen.

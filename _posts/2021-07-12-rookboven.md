@@ -5,7 +5,7 @@ date: 2021-07-12 18:00:00 +0100
 categories: huis
 ---
 
-![rookboven]({{ site.baseurl }}/assets/rookboven.png)
+![rookboven](../assets/rookboven.png)
 
 Met behulp van Berry en de overbuurjongen heeft de rookoven het dakterras bereikt waar die nu staat proef te draaien
 

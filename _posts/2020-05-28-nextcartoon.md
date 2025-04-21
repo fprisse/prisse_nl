@@ -7,6 +7,6 @@ categories: Mozes
 
 ### Mozes, de kat, is niet meer.
 
-![mozes_is_dead]({{ site.baseurl }}/assets/byemozes.png)
+![mozes_is_dead](../assets/byemozes.png)
 
 Hij heeft zelf een koud plekje in het huis opgezocht om te sterven.

@@ -11,6 +11,6 @@ Perfecter kon ik 't feestje niet timen. In de laatste nacht dat de horeca onbepe
 
 De volgende ochtend in de vroegte aangeschoven bij Thesa en Paul in Hotel V en vervolgens via Gaastmeer (caravan ophalen) naar Oostmahorn, alwaar we, na Douwes tuin in een camping te hebben omgetoverd, de rest van de zaterdag hebben verpoeft met zwemmetjes, Champagne en slechte grappen.
 
-![verjaardag49]({{ site.baseurl }}/assets/verjaardag49.gif)
+![verjaardag49](../assets/verjaardag49.gif)
 
 Zondag met alle bootjes het water op en van de goede wind en beukende zon genoten. Op een verlaten autobaan (tijdens EK-Finale) terug naar Amsterdam weer.

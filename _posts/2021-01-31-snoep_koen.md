@@ -13,4 +13,4 @@ categories: Dieren
 
 Koen en ik waren vandaag (wederom) bij Nathalie, Bart, Moos en Snoep op bezoek. Snoep en Koen spelen samen maar vinden het ook nog wel een beethe spannend. Ze zijn nog een beetje aan het uitvinden hoe dat moet, zo tussen hond en poes.
 
-wordt vervolgd en wel [hier](https://prisse.nl/assets/snoep_en_koen2.mp4)
+wordt vervolgd en wel [hier](../assets/snoep_en_koen2.mp4)

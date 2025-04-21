@@ -9,7 +9,7 @@ categories: Vakantie
 
  <video style="width:100%" controls>
   <source src="/assets/video/schierzat.mp4">
- ![videotag not supported]({{ site.url }}/assets/schierzat.jpg)
+ ![videotag not supported](../assets/schierzat.jpg)
 </video> 
 
 Met hele bende gisteren by Talsma geland.  

@@ -6,6 +6,6 @@ categories: mama
 ---
 
 ### Even langs bij Douwe
-![zoeteinval]({{ site.baseurl }}/assets/oostmahorn.jpg)  
+![zoeteinval](../assets/oostmahorn.jpg)  
 
 Ik dach even langs te wippern bij Douwe op de terugweg van Schier; Ik was blijkbaar niet de enige die op dit briljante idee was gekomen.

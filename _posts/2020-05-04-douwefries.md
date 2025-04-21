@@ -7,7 +7,7 @@ categories: Covid-19
 
 ### Ouwe Koeien
 
-![wiesterwei]({{ site.baseurl }}/assets/douwefries.png)
+![wiesterwei](../assets/douwefries.png)
 
 Bij Douwe in Friesland, altijd weer een warm bad ! Er staat er ook daadwerkelijk een badkuip in de tuin zodat je rustig het gesprek voort kan zetten terwijl je in een sopje wegzakt. Om 20:00 samen over het land getuurd. Tot diep in de nacht vele oude koeien uit allerlei sloten getrokken en enkele kalveren erin geschopt. Het was weer fijn landen in de Wiesterwei.
 

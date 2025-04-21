@@ -6,6 +6,6 @@ categories: Amsterdam
 ---
 
 ### Kom jij maar binnen ventje !
-![lisannepijp]({{ site.baseurl }}/assets/lisannepijp.png)  
+![lisannepijp](../assets/lisannepijp.png)  
 
 Als ik deze foto zie snap ik opeens best dat sommige mensen een beetje bang voor haar zijn, maar ze is echt heel lief.

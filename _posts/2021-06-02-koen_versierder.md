@@ -7,4 +7,4 @@ categories: Zomer
 
 ### En koen is een natuurtalent
 
-![koen_versierder]({{ site.baseurl }}/assets/koen_versierder.jpg)
+![koen_versierder](../assets/koen_versierder.jpg)

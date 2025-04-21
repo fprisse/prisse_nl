@@ -7,7 +7,7 @@ categories: Work
 
 ## CP Manufacturing in a connected world
 
-![webinarsusan]({{ site.baseurl }}/assets/webinarsusan.png)  
+![webinarsusan](../assets/webinarsusan.png)  
 
 Attendees will also be able to hear key “get rights” for manufacturing and ask questions to our experienced panel of implementation leaders.
 

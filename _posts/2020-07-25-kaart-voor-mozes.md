@@ -7,7 +7,7 @@ categories: Vakantie
 
 ### Ik was niet enige die blij van Mozes werd
 
-![gato]({{ site.baseurl }}/assets/gato.jpg)
+![gato](../assets/gato.jpg)
 Uit het Valenciaans vertaalt door mijn veel te slimme zuster:
 
 *Halo kat, hoe gaat het ermee? Ik hoop dat jullie een goeie kerst hadden. Wij hebben een hele mooie zomer gehad. Elke dag kwam het hondje (de pen) langs al vlinders jagend. Ik stuur je opnames.*

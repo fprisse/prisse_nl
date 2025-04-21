@@ -7,7 +7,7 @@ categories: Buurt
 
 ### van de Amsterdamse Simplex Rijwielfabriek N.V.
 
-![fietsholger]({{ site.baseurl }}/assets/fietsholger.jpg)
+![fietsholger](../assets/fietsholger.jpg)
 
 Dat is nog eens troost ! Holger, fietsenmaker bij mij om de hoek, was gisteravond deze Amsterdamse klassieker aan het opknappen. Hij had blijkbaar door dat ik hem mooi vond. Na een pasta met stoofvlees en wijn gingen we gisteravond uit elkaar. Toen ik vanmorgen vroeg opstond om koffie te brouwen stond er tot mijn ergernis een fiets zo goed als tegen mijn keukendeur. Dat was tot ik de fiets herkende en zag dat er sleutels in mijn bus lagen.
 

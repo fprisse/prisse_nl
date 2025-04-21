@@ -5,7 +5,7 @@ date: 2021-10-01 15:30:00 +0100
 categories: Health
 ---
 
-![roken]({{ site.baseurl }}/assets/hotsmoke.png)  
+![roken](../assets/hotsmoke.png)  
 
 ### Niet bijzonder, wel trots
 

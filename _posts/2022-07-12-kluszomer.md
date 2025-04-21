@@ -5,6 +5,6 @@ date: 2022-07-12 00:00:01 +0100
 categories: Oostmahorn
 ---
 
-![kluszomer]({{ site.baseurl }}/assets/kluszomer.gif)  
+![kluszomer](../assets/kluszomer.gif)  
 
 Ik dacht eigenlijk dat het huisje al klaar was, maar als je dan je buurmans zo bezig ziet ...

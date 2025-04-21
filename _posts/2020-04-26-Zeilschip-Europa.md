@@ -9,7 +9,7 @@ categories: Covid-19
 
 Ook STA zeilschip Europa is, zonder gasten, bezig om in één ruk van Ushusya terug te varen naar Nederland, Minne-XL wees me hierop.
 
-![Zeilschip Europa]({{ site.baseurl }}/assets/europa.jpg)
+![Zeilschip Europa](../assets/europa.jpg)
 
 Ik besprak vanavond nog met dr. Breed dat je nu eigenlijk het allerbeste met je liefjes de wereld om kan zeilen. Het onderwijs is nog nooit zo digitaal aangeboden; afstand houden van anderen is zo'n beetje de essentie van zeezeilen en voor geld verdienen komen heus weer betere dagen.
 

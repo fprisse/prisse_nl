@@ -5,7 +5,7 @@ date: 2021-12-12 12:00:00 +0100
 categories: Auto
 ---
 
-![e30cabrio]({{ site.baseurl }}/assets/e30cabrio.png)
+![e30cabrio](../assets/e30cabrio.png)
 
 Gek genoeg biedt het autoluwe beleid, dat Amsterdam aan het doorzetten is, een leuke bijkomstigheid voor de binnenstedelijke autobezitter.
 

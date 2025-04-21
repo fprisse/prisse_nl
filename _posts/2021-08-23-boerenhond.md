@@ -6,5 +6,5 @@ categories: Friesland
 ---
 
 ### Voor ieder blaadje een plaatje
-![poesjkin](https://prisse.net/boerenhond.jpg)
+![poesjkin](../assets/boerenhond.jpg)
 

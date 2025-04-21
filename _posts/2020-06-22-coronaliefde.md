@@ -7,7 +7,7 @@ categories: Vakantie
 
 ### Corona, Tijd, Ruimte en Liefde
 
-![corona]({{ site.baseurl }}/assets/corona.png)
+![corona](../assets/corona.png)
 
 Ik heb op de valreep van de Lock-down Roos ontmoet. Ik ben net op tijd Oostenrijk ontvlucht. We hebben een uitgekiend excuus om ons totaal ontremd over te geven. Wat onder andere omstandigheden een obsessievelijk samenzijn zou zijn heet nu quarantaine.
 
