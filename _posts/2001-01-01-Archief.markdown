@@ -5,6 +5,6 @@ title:  Archief
 
 ![archief]({{ site.baseurl }}/assets/archief.png)
 
-[Click hier om het archief te bekijken](,,/archief2014)
+[Click hier om het archief te bekijken](archief2014)
 
 grote file, duurt even om te laden.
