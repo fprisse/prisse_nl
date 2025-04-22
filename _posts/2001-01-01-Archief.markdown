@@ -3,7 +3,7 @@ layout: post
 title:  Archief
 ---
 
-![archief]({{ site.baseurl }}/assets/archief.png)
+![archief](../assets/archief.png)
 
 [Click hier om het archief te bekijken](archief2014)
 
