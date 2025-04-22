@@ -5,23 +5,23 @@ date: "2014-12-31 00:01"
 ---
 ### December 2, 2014 : FACEBOOK, KLAAR D’R MEE !
 
-![facebook]({{ site.baseurl }}/assets/facebook.png)
+![facebook](../assets/facebook.png)
 
 ### December 1, 2014 : GROTE MENEER VAN BERNOU SCHRAM
 
-![bernou]({{ site.baseurl }}/assets/bernou.jpg)
+![bernou](../assets/bernou.jpg)
 
 Sinds vandaag hangt in mijn werkkamer een werk van Bernou Schram dat zij vandaag is komen brengen. Ondanks dat er nu een meneer, met een hooft van meer dan een meter groot, mij de hele dag zit aankijkt, is het werk eerder geruststellend dan verontrustend: Ik heb eerder het gevoel dat hij op mij past dan dat hij op mij let.
 
 ### November 8, 2014 : ETEN MET DE MANNEN
 
-![tammoco]({{ site.baseurl }}/assets/tammoco.png)
+![tammoco](../assets/tammoco.png)
 
 “Jongens waren we, maar aardige jongens. Al zeg ik ‘t zelf”
 
 ### September 2, 2014 : IN ERE HERSTELD: VRUCHTBAAR HOOFD
 
-![hoofd]({{ site.baseurl }}/assets/hoofd.png)
+![hoofd](../assets/hoofd.png)
 
 Mooi werk van mijn zuster Caroline weer in ere hersteld.
 
@@ -29,7 +29,7 @@ Mooi werk van mijn zuster Caroline weer in ere hersteld.
 
 Vroeger begonnen we hiermee in Mei, nee ### April; Elke avond op de Amstelstaal, hapje, drankje en zonnetje. We doken van meerpalen af omdat het kon, klommen in bruggen om ze beter uit te lichten en zongen serenades onder bruggen. Huwelijken en verjaardagen konden er geen afbreuk aan doen. (Moet je maar niet trouwen als het mooi weer is)
 
-![bootfloris]({{ site.baseurl }}/assets/bootfloris.png)
+![bootfloris](../assets/bootfloris.png)
 
 En kijk nu: halverwege Juli, de kortste nacht is reeds vervlogen; een boot vol (prachtige) witte lijven waar geen zonnebril tegen op gewassen is. Blijkbaar nemen we zo langzamerhand onze maatschappelijke verantwoordelijkheden zo serieus dat we er niet meer aan toe komen.
 
@@ -52,11 +52,11 @@ Mallam Jodoma werd verbannen naar een dorp in de buurt en zou daar zijn gebleven
 
 Waarom vertel ik dit ?
 
-![malam1]({{ site.baseurl }}/assets/malam01.png)
+![malam1](../assets/malam01.png)
 
 Omdat ik net bijna 3 dagen aan boord van de Winsome (een wonderschoon door Sparkman and Stehpens ontworpen jacht met het zelfde bouwjaar als het mijne) een wedstrijd heb gezeild die “the myth of mallam” heet maar niemand mij kon vertellen wat deze mythe dan behelsde. In het gezelschap waarin ik verkeerde, zeilfanaten met koppen als Griekse vissers van al die zon en dat vele zout, werd dat als een volstrekte trivialiteit gezien. Het ging immers allemaal om het schip “the myth of mallam” waar deze race naar vernoemd is.
 
-![malam02]({{ site.baseurl }}/assets/malam02.png)
+![malam02](../assets/malam02.png)
 
 Het was een wonderschone tocht, en alles ging zoals dat moet en erbij hoort:
 
@@ -69,29 +69,29 @@ Veel dank Jan voor de uitnodiging. Het was heerlijk !
 
 
 ### January 12, 2014 : RAMON VALLE MET LUCAS VAN MERWIJK
-![ramon]({{ site.baseurl }}/assets/ramon.png)
+![ramon](../assets/ramon.png)
 
 Aanstaande zondag middag in de Roode Bioscoop in Amsterdam ! (haarlemmerplein)
 
 Hier kan je kaarten bestellen:  http://www.roodebioscoop.nl/
 
 ### January 11, 2014 : DAAD BIJ HET WOORD ..
-![sloop]({{ site.baseurl }}/assets/sloop.png)
+![sloop](../assets/sloop.png)
 
 ### Als een kind zo blij met ….
 
 Mijn nieuwe aanhangwagen . . van marktplaats . . bijna voor niets.
 
-![aanhanger]({{ site.baseurl }}/assets/aanhanger.png)
+![aanhanger](../assets/aanhanger.png)
 
 Zo blij als ik vroeger was met de sleepwagen van Tonka, waar nu neef Minne het antiek van mijn moeder mee door de keuken probeert te slepen, zo blij ben ik nu met mijn aanhangwagen(tje). Hij past door de voordeur dus ik kan bij aanvallen van sloopwoede het puin zo 1-2-3 in het wagentje dumpen.
 
 ### January 10, 2014 : MINISTER MET HUMOR
-![plassterk]({{ site.baseurl }}/assets/plassterk.png)
+![plassterk](../assets/plassterk.png)
 
 ### SIMPSONS IN LEGO
 
-![simpsons]({{ site.baseurl }}/assets/simpsons.png)
+![simpsons](../assets/simpsons.png)
 
 Ik werd al helemaal blij toen ik Darth Vader in lego vorm zag, met name grappig in “the deathstar canteen” van Eddie Izzard. Maar nu de Simpson Family in lego. De lelijke mistroostige kopjes wonderschoon in ABS uitgevoerd.
 
@@ -106,28 +106,28 @@ http://ludwikakowalewska.blogspot.nl
 ### January 3, 2014 :
 GELUKKIG NIEUWJAAR, ALLEMAAL !
 
-![facebook2]({{ site.baseurl }}/assets/facebook2.jpg)
+![facebook2](../assets/facebook2.jpg)
 
 ### December 31, 2013 : OUDJAAR
 
-![amstelkerk]({{ site.baseurl }}/assets/amstelkerk.png)
+![amstelkerk](../assets/amstelkerk.png)
 
 In de Amstelkerk alvast begonnen aan een cultureel verantwoord jaar
 
 ### December 23, 2013 : WC TERUGGEVONDEN
 
-![wcsloop]({{ site.baseurl }}/assets/wcsloop.jpg)
+![wcsloop](../assets/wcsloop.jpg)
 
 ### December 19, 2013 : HET GAAT DRAMATISCH GOED . . .
 
 Beetje teleurgesteld in “the powers that be” . Hoewel ik niet ga roepen dat er niets valt aan te merken aan het operating model van de KLM, doet het nieuwsbericht mij pijn dat KLM vervroegd geïntegreerd gaat worden in Air France. Vervroegd omdat de prestaties van Air France beneden de maat zijn en die van de KLM relatief goed. In mijn wereld is dat een reden om integratie nog even uit te stellen. Maar gelukkig heb ik meer verstand van …..
 
-![klm]({{ site.baseurl }}/assets/klm.png)
+![klm](../assets/klm.png)
 
 ### December 18, 2013 : HOW TO MAKE THE INTERNET NOT SUCK (AS MUCH)
 De site heet someonewhocares.org en het is ook echt liefdewerk-oud-toetsenbord.
 
-![hosts]({{ site.baseurl }}/assets/hosts.png)
+![hosts](../assets/hosts.png)
 
 Deze mensen hebben een lijst van iets meer dan 10.000 servers opgesteld die je zo 1-2-3 in je hosts-file kan kopiëren en daarmee allerlei reclame waar je niet blij van wordt, maar ook allerlei “trackers” buitenspel zet. Het werkt wonderschoon !
 
@@ -136,13 +136,13 @@ Bij de Jacht haven in het Westerdok, waar deze winter de Vixen II naast Kim haar
 
 ### November 11, 2013 : WARWICK CASTLE
 
-![warwick]({{ site.baseurl }}/assets/warwick.png)
+![warwick](../assets/warwick.png)
 
 Om de hoek bij waar ik nu aan het werk ben staat een kasteel waar je niet van had geloofd dat het bestaat. Het is zo uit een kindertekening weggelopen, torens, kantelen, ophaalbruggen; The works ! Als je er voor staat dan kijk je toch even over je schouder of er geen ridders met kokosnoten achter je aan zitten.
 
 ### July 1, 2013 : CORSICA
 
-![corsica]({{ site.baseurl }}/assets/corsica.png)
+![corsica](../assets/corsica.png)
 
 Met Douwe en zijn oudste dochter Aliya op de bonnefooi nar Corsica gereden met mijn nieuwe speelgoed aan de trekhaak
 
@@ -153,13 +153,13 @@ Uit het apothekers museum: Mischien wel mijn nieuwe keuken. Eens kijken of er me
 
 Blijkbaar gebruik met enige regelmaat ik mijn wijsvinger om de aandacht te vragen of mijn woorden kracht bij te zetten. Daar wordt ik wel eens op gewezen door collega’s op momenten dat ik dingen van enig belang denk te zeggen. Welnu, in ieder geval ben ik (getuige deze foto) in goed gezelschap. Ik heb geen flauw idee wat Bob, Floris en ik elkaar aan het vertellen zijn, maar is het zo te zien van groot belang niet verkeerd begrepen te worden.
 
-![vinger]({{ site.baseurl }}/assets/vinger.jpg)
+![vinger](../assets/vinger.jpg)
 
 Dit was overigens tijdens het jaarlijkse vaartje waarin het orakel Floris Friedeman Kuiper het begin van de zomer aankondigt; Ook dit jaar had hij in het geheel het gelijk aan zijn zijde.
 
 ### June 12, 2013 : BANG ! ZWART BETON
 
-![beton1]({{ site.baseurl }}/assets/beton1.jpg)
+![beton1](../assets/beton1.jpg)
 
 Het had wat voeten in de aarde (of liever in het beton) maar het resultaat is om over naar huis te schrijven. Aangezien ik nu even geen huis heb om naar te schrijven een foto op het Blogje.
 
@@ -173,7 +173,7 @@ Met een grote grijns kon ik zeggen: “Ja, voor mijn beton !” (ik ben de man l
 
 ### June 8, 2011 : CAROLINE PRISSE IN GLASMUSEUM
 
-![glasmuseum]({{ site.baseurl }}/assets/glasmuseum.png)
+![glasmuseum](../assets/glasmuseum.png)
 
 15 juni t/m 6 oktober 2013
 
@@ -197,7 +197,7 @@ Van sommige dingen krijg ik jeuk.
 
 Op een Deense School hebben 5 meisjes een onderzoek gedaan met opmerkelijke resultaten. De uitslagen zijn echter lang niet zo bont als Websites als LexNaturalis of DR1 (de Deense NOS) ons willen laten geloven.
 
-![tuinkers]({{ site.baseurl }}/assets/tuinkers.png)
+![tuinkers](../assets/tuinkers.png)
 Geheel in stijl een lukraak van ‘t net geplukte  foto
 
 In hun publicaties zetten ze laten een wild groeiende bos en volstrekt niet gekiemde zaadjes zien als representatief voor groei onder en zonder Wifi invloed: zo extreem waren de verschillen niet. Maar dat er een zichtbaar verschil was is wel waar en opmerkelijk genoeg. Het risico van onderzoeksresultaten overdrijven is dat terechte kritiek op de overtrokken conclusies ook de geloofwaardigheid van het onderzoek zelf raakt, en dat zou zonde zijn.
@@ -205,7 +205,7 @@ In hun publicaties zetten ze laten een wild groeiende bos en volstrekt niet geki
 Hier het echte verslag : PDF
 
 ### October 26, 2012 : ODE AAN VAKLIEDEN
-![nieuwdak]({{ site.baseurl }}/assets/nieuwdak.png)
+![nieuwdak](../assets/nieuwdak.png)
 
 …… Een klein dorp bleef dapper weerstand bieden aan de overheersing van kliklaminaat en gipskarton en maakte het leven der beunhazen zuur. Welnu; Uit dat dorp komt mijn aannemer ! Aanschouw de afgekante bakstenen waarmee de rondgemetselde bogen van mijn keukenplafond hersteld worden, zie het degelijk timmerwerk van mijn nieuwe dak !
 
@@ -213,13 +213,13 @@ Hier het echte verslag : PDF
 
 THE WEATHER, MARC, IS WHAT’S ON MY MIND !
 
-![geendak]({{ site.baseurl }}/assets/geendak.png)
+![geendak](../assets/geendak.png)
 
 Marc Zuckerberg vroeg mij vandaag wat er zo in mijn gedachten spookt. Dat schijnt hij overigens wel bij meer mensen te doen. Zelden kon ik zo een eenduidig antwoord geven: Het weerbericht ! Er zit op dit moment namelijk geen dak op mijn huis, helemaal niets. Een goed gemikte bui zou een bijzonder fraaie bergbeek over de eerste verdieping vormen uitmondend in een klinkende waterval in het trappegat om beneden mijn schaarse bezittingen in een modderstroom van bouwpuin mee te slepen de voordeur uit en linksaf de gracht in.
 
 ### September 20, 2012 : INBREKERS UITNODIGEN
 
-![minimal]({{ site.baseurl }}/assets/minimal.jpg)
+![minimal](../assets/minimal.jpg)
 
 Ooit (toen een biertje nog één gulden en tachtig cent kostte, mannen hun borst niet schoren en hobby’s waren voor mensen die hun tijd vullen met iets waar ze eigenlijk niet zo goed in zijn). Ja die tijd. Ik woonde toen “anti-kraak” op de 1e verdieping van een pand aan de Marnixstraat dat gesloopt zou worden. Duidelijk was dat dat slopen niet veel moeite zou gaan kosten. Een iets te enthousiaste lucht-kus van twee mensen die doen alsof ze elkaar liefhebben (anders waren ze elkaar wel weer in de armen gevlogen) zou genoeg zijn geweest om het hele blok te doen instorten. Het was toen dat ik thuis kwam van een nietverdiende wintersport en bleek dat er niet alleen ongenodigde gasten in mijn huis waren geweest maar dat ze alles, maar dan ook alles hadden meegenomen. Niet alleen de gordijnen – maar ook de gordijnrails. Niet alleen mijn keukenspullen maar ook de geiser; Echt alles !
 
@@ -231,13 +231,13 @@ Zou dat ook in je hoofd kunnen, inbrekers uitnodigen ?
 
 ### September 19, 2012 : MINSTENS ÉÉN KEER PER JAAR
 
-![ott]({{ site.baseurl }}/assets/ott.jpg)
+![ott](../assets/ott.jpg)
 
 Minstens een keer per jaar moet ik met ze op stap, de bewoners van “ons tweede thuis”. Om met imagionaire baarden om wel degelijk bestaande kaapren te varen. Om trouw aan schip en opvarenden de wacht te houden voor storm, kapers, ondiepten en ondeudgelijkheden. Om ‘s-avonds bij het licht van de olielamp (en keihard Frans Bauer uit de luidspreker) te horen te krijgen dat ik zelf niet zo goed begrijp wat ik allemaal doe. en ja natuurlijk ook dat ik zelf ook heus een pannekoek ben. Sommige dingen dreig je te vergeten, gelukkig heb ik een abbonnement.
 
 ### August 3, 2012 : SOUS LES TILLEUR
 
-![dirk]({{ site.baseurl }}/assets/dirk.jpg)
+![dirk](../assets/dirk.jpg)
 
 Op bezoek bij Dirk en Baukje in de Charante. Meteen ook een trip down memory lane. Het huis en aanpalende gite zijn werkelijk wonderschoon geworden in de 7 jaren dat ik hier niet geweest ben. En hoewel de ontwikkeling verre van stil heeft gestaan; bouwval tot paleis omgetoverd, kind erbij, en ondertussen zelfs een zetel in de lokale gemeenteraad, lijkt het alsof ik hier gisteren nog was. Wat een fijne plek, wat een fijne mensen !
 
@@ -245,13 +245,13 @@ www.sous-le-tailleur.com
 
 ### July 31, 2012 : HET MEER VAN DE OUDE SMEDERIJEN
 
-![forges]({{ site.baseurl }}/assets/forges.jpg)
+![forges](../assets/forges.jpg)
 
 Het is wel een hele bedriegelijke naam voor een stuwmeer, lac de vieilles forges, maar wat een wonderschone plek. Toen we bij de lokale baswachterij vroegen of het toegestaan was om een in tentje bij het meer te overnachten zei de man mij met een hele vette knipoog dat dit ten strengste verboden was. Toen wij in weerwil van het verbod ons kamp hier opsloegen werd duidelijk hoe het hier werkte. Op alle mooie plekjes rond het meer kwamen families met vrienden met visgerei aanzetten (vissen mag namelijk wel). Nadat ze uitgebreid hun hengels hadden uitgezet werden de barbeque de tenten en de uitvouwbare picknic tafel opgezet. Nog even hadden we twijfel over het kampvuur maar nadat we overal uit de bossen rond het meer rond zonsondergang rookpluimen opdoemden snapten wij dat dit bij het ritueel hoorde. Wat een fijne plek en wat heerlijk dat het niet mag.
 
 ### June 20, 2012 : “HOCKEYTAS OP WIELEN”
 
-![volvo]({{ site.baseurl }}/assets/volvo.png)
+![volvo](../assets/volvo.png)
 
 Mijn zuster kreeg de slappe lach en begon flauwe grappen te maken over parelkettingen, kinderzitjes en labradors. Die laatste krijg je er, in de kleur van de binnenbekleding,bij deze “limited edition” bijgeleverd. Één van mijn betere vrienden noemde het een hockeytas op wielen.
 
@@ -275,19 +275,19 @@ Mischien maakt de porno-witte bekleding nog iets goed, of misschien is dat juist
 
 Als je de kosten / lengte verhouding van de “Danyan-Kunshan” Grand Bridge hanteerd, zou je er een spoorbrug van Den Helder naar Rekjavik van kunnen aanleggen, met tussenstations op Orkney en de Faroer eilanden. Maar je had er ook Facebook van kunnen kopen
 
-![100mil]({{ site.baseurl }}/assets/100mil.png)
+![100mil](../assets/100mil.png)
 
 On the bright side : Wel geruststellend voor huizen bezitters; je huis mag straks iets minder waard zijn, (zie hieronder plaatje waarin het woningprijs tegen inkomensgroei en inflatie wordt afgezet), het bedrag van de bijbehorende hypothecaire lening stelt ook niet zoveel voor binnenkort. Dat komt mooi uit, dan doet de onafwendbare afschaffing van hypotheek rentaftrek ook wat minder pijn
 
 ### March 30, 2012 : PAST NIET, ECHT NIET !
 
-![rondvaart]({{ site.baseurl }}/assets/rondvaart.jpg)
+![rondvaart](../assets/rondvaart.jpg)
 
 Zaterdagmorgen het volgende tafereel, ramptourist Maarten nam me er in de vroegte mee naar toe.  Een rondvaartboot heeft zichzelf vastgeboord onder de enige brug onder de Utrechtsestraat waar je zelfs zwemmend nauwelijk onder door kan. Later hoorden we dat arme man die dit gepresteerd heeft de dag ervoor bij de rederij Lovers in dienst was getreden
 
 ### March 25, 2012 : NEEF GEBOREN !
 
-![minnetwee]({{ site.baseurl }}/assets/minnetwee.png)
+![minnetwee](../assets/minnetwee.png)
 
 Vandaag mocht ik mijn neef (minne) eindelijk met eigen ogen aanschouwen, 10 vingers – 10 tenen, hij doet het !
 
@@ -298,7 +298,7 @@ Ook heel fijn maar minder geschikt voor de weekhartigen onder ons: http://youtu.
 
 ### March 21, 2012 : DE WILDE KEUKEN
 
-![kreeft]({{ site.baseurl }}/assets/kreeft.png)
+![kreeft](../assets/kreeft.png)
 
 Waarom halen we rivierkreeft uit China, als deze hier in overvloed de fuiken van binnenvissers inzwemt? .. Halverwege een pad dat dwars door de ankeveense plassen loopt kan je ook terecht voor rivierkreeft. en deze is echt vers.
 
@@ -308,7 +308,7 @@ Volledig artikel op: http://www.foodlog.nl/artikel/spiegel_blijkpolderse_rivierk
 
 ### February 18, 2012 : SPANNENDE TANTE OVERLEDEN
 
-![gratia]({{ site.baseurl }}/assets/gratia.png)
+![gratia](../assets/gratia.png)
 
 Vandaag namen wij in Den Haag afscheid van Grote tante Gratia, iemand die het aan begrip verhalen vertellen de grootste invulling wist te geven. Met gepaste gebaren en verhalen vierden we vandaag haar leven.
 
@@ -341,7 +341,7 @@ Vandaag met Minne een middag doorgebracht in de ateliers van de Rijksakademie vo
 
 ### November 15, 2011 : SCHREEUWLELIJK WEER THUIS
 
-![mozes]({{ site.baseurl }}/assets/mozes.png)
+![mozes](../assets/mozes.png)
 
 Kijhard schreeuwen, alsof het aan mij lag dat wij elkaar bijna twee weken niet gezien hadden, dat is wat de bijna als verloren beschouwde knuffelkat deed bij zijn thuiskomst vanavond. Ondertussen heeft hij zijn buikje rond gegeten en ligt hij uitgeteld op de bank. Fijn dat ie weer thuis is !
 
@@ -351,13 +351,13 @@ Ongeveer 1100 mensen hebben bedacht dat ze het beursplein gaan bezetten. Dit om 
 
 ### September 21, 2011 : OF IK DE MOSSELMAN KEN? DE MOSSELMAN KENT MIJ!
 
-![mossel1]({{ site.baseurl }}/assets/mossel1.jpg)
+![mossel1](../assets/mossel1.jpg)
 
 De Philippine is een Mosselaak, een Lemsteraak speciaal gebouwd om mosselbroed van de Waddenzee naar Zeeland te vervoeren. Zij was de eerste week van ### September dan ook duidelijk in haar element op de Waddenzee als robuuste, zeilende gezellige herberg voor zeven onderzoekers van het Mosselbank herstelproject Mosselwad (www.mosselwad.nl).
 
 Sinds 1990 zijn de droogvallende mosselbanken in de Westelijke Waddenzee bijna verdwenen. De vereniging Kust & Zee onderzoekt met een paar gerenommeerde onderzoekinstituten voor de overheid welke factoren de overleving van mosselbanken in de Waddenzee bepalen. Zo zijn er zeesterren, vogels en krabben die graag mosselen eten. En welke invloed hebben de stormen die door de klimaatverandering mogelijk vaker en heftiger voorkomen? Samen met het onderzoekschip Navicula ging de Philippine mosselen meten om hier achter te komen.
 
-![mossel2]({{ site.baseurl }}/assets/mossel2.jpg)
+![mossel2](../assets/mossel2.jpg)
 
 Vrijdagavond vertrokken we in windstilte naar Enkhuizen, rustig tuffend namen we de tijd de boodschappen op te ruimen, boordlichten op te hangen en een lekker hapje te maken.
 
@@ -367,11 +367,11 @@ De volgende dag gingen we in Lauwersoog door de sluis, waar we de rest van onze 
 
 Dinsdagochtend stond er een keiharde wind met waarschuwingen tot windkracht 9. We zouden de mosselbank op het Brakzand gaan bezoeken, maar helaas. Eenmaal buiten gekeken, keerde we snel weer om naar de haven, om lekker achter de warme chocolademelk de duiken. Woensdagochtend besloten we tijdens het palaver wederom om niet uit varen. De Navicula voer wel uit. De onderzoekers konden uiteindelijk maar beperkt werk verrichten omdat de storm zorgde voor bijna een meter verhoging, zodat de Mosselbanken nauwelijks droogvielen.
 
-![florispi]({{ site.baseurl }}/assets/florispi.jpg)
+![florispi](../assets/florispi.jpg)
 
 Vandaar dat er de tijd was om belangrijke dingen tot op de bodem uit zoeken. Zoals welk vuil plot er schuilgaat achter het idee om kinderen te leren dat de mosselmannen uit Scheveningen kwamen . Of hoe het komt dat er een beeld van Berend-Botje in Zuidlaren staat terwijl de verstandige man daar nooit geweest is en een eervolle beeltenis in Amerika veel meer aan de orde zou zijn. Na lang doorvragen bleek ook inderdaad dat als Frankrijk geen kitscherige vuurtoren, die oorspronkelijk bedoeld was voor de ingang van het Suez-kanaal, had overgehad, Nederland waarschijnlijk een beeld van Berend-Botje aan New-York had gegeven.
 
-![navicula]({{ site.baseurl }}/assets/navicula.jpg)
+![navicula](../assets/navicula.jpg)
 
 Na twee stormachtige dagen op het Brakzand vertrok de Navicula op een zonovergoten woensdagmiddag richting het Oostelijke Wad voor meer mosselonderzoek en spoedden wij ons naar Muiden om tijdig terug te zijn voor de bewoners van ons 2e thuis.
 
@@ -379,7 +379,7 @@ Het komt erop neer dat we een veilig en vrolijk thuis hebben kunnen bieden aan d
 
 ### August 13, 2011 : Oostelijk Wad
 
-![mosselcrew]({{ site.baseurl }}/assets/mosselcrew.png)
+![mosselcrew](../assets/mosselcrew.png)
 
 Met een beetje geluk gaan we met deze mosselmannen en zeemeerminnen de mooiste en geheimste plekjes van het wad onderzoeken met het doel meer uit te vinden over het herstel van de mosselpopulatie aldaar.
 
@@ -387,13 +387,13 @@ voor uitgebreide informatie over dit project: zie www.mosselwad.nl
 
 ### August 9, 2011 : MEMORY LANE MET MOEDER
 
-![lacona]({{ site.baseurl }}/assets/lacona.jpg)
+![lacona](../assets/lacona.jpg)
 
 Elba, het eiland waar ik als kind van moeder heb leren zwemmen. Met mijn zusjes snorkelenden we dagen rond rotsjes om zeesterren -egels en vissen bewonderden. Vrolijk met grote tent achter in de Fiata 127 tuften we daar zomers naar toe.  Aangezien we beiden geen flauw idee meer hadden hoe de camping heette en waar deze precies was hadden wij hulp nodig. Na uitvoerig te hebben uitgelegd aan een behulpzame receptioniste in Marciana-Marina, kon zij drie mogelijkheden op de kaart tekenen. Met behulp van google-earth was de plek snel herkend. Nog geen twee uur later (we moesten natuurlijk eerst snel even een snorkel scoren) lagen wij in het water bij ons geheime strandje, dat nog meer dan toen alleen na een stevige alpinistencursus te bereiken is.
 
 ### August 7, 2011 : HUWELIJK LONNIE EN NANDO
 
-![nando]({{ site.baseurl }}/assets/nando.png)
+![nando](../assets/nando.png)
 
 Dit weekend trouwden Lonnie en Nando in de Wonderschone Fattoria di Rignana in de Chianti. Het was er heerlijk ! Vrijdagochtend daar aangekomen met moeder, over een landweggetje waar je van zou zeggen dat er voor het laatst tijdens de 2e wereldoorlog gemotoriseerd vervoer gebruik van heeft gemaakt. Vervolgens 3 dagen lang van alleen maar gezeligheid, fijn gepruts en heerlijk eten en drinken. En .. .. .. lekker sentimenteel genieten van het geluk van Lonnie en Nando
 
@@ -425,7 +425,7 @@ Het is namelijk zondag en ik kan, wil en hoef niks behalve boekje lezen en eten 
 
 ### July 16, 2011 : EEN ONVERWACHTE LOGEE ! WE NOEMEN D’R “DISCO”
 
-![discodog]({{ site.baseurl }}/assets/discodog.png)
+![discodog](../assets/discodog.png)
 
 Terwijl ik heerlijk te midden van elfjes en peterpan-achtige types sta te dansen op de verjaardag van Michiel in vlla belt de barman van het cafe bij mij om de hoek, met het volgende verhaal: “bij het opruimen hadden we opeens een hond over”,  “kan die bij jou logeren ?” Dus die heb ik op weg naar huis haar maar meegenomen. Terwijl allen in touw zijn om de eigenaar(esse) te vinden sjok ik vandaag met een zeer vrolijke “Disco” door de stad.
 
@@ -433,19 +433,19 @@ Terwijl ik heerlijk te midden van elfjes en peterpan-achtige types sta te dansen
 
 ### July 1, 2011 : LANDEN OP ZEE
 
-![peer1]({{ site.baseurl }}/assets/peer1.jpg)
+![peer1](../assets/peer1.jpg)
 
 Heeft vermoedelijk niet zoveel woorden nodig om dit geluk toe te lichten. Aan boord van Peer de Schuymer gestapt in Enkhuizen na een verlichtend Oerol en nu weer onderweg naar het Wad met hele fijne mensen. Mijn kleertjes gewassen en in windstilte mijlen maken op de zachtjes puffende motor.
 
 ### June 26, 2011 : HIHI HAHA WEER NAAR TERSCHELLING
 
-![peer2]({{ site.baseurl }}/assets/peer2.jpg)
+![peer2](../assets/peer2.jpg)
 
 Na een heerlijk Oerol, terug naar het vaste land om lekker een rondje met minne te gaan zeilen. Via Arnhem om Kitty en Max te zien trouwen en dat met een klein dansje te vieren. Nu aan boord blijken wij onderweg te zijn naar . . .  Terschelling ! Ik kom nooit van dat eiland af !
 
 ### June 19, 2011 : KRUISPOST AMSTERDAM
 
-![kruispost]({{ site.baseurl }}/assets/kruispost.png)
+![kruispost](../assets/kruispost.png)
 
 Gisteren op een benefietbal van de Maltezer Orde of èigenlijk: “de Souvereine Militaire Hospitaal Orde van Sint Jan van Jeruzalem, van Rhodos en van Malta”. Heb me er prima vermaakt, toch vannochtend me maar eens iets meer verdiept in hun daardwerklijke daden in Nederland. Hieronder een objectief stukje over de kruispost die ze sinds 1983 (sluiting van het binnengasthuis) samen met hun protestantse evenknie de Johanniter orde op de wallen in Amsterdam overeind houden.
 
@@ -453,7 +453,7 @@ Jaarboek huisartsgeneeskunde 2010 blz 25
 
 ### June 6, 2011 : NIET ALLEEN VOOR DE POES: KOPJES GEVEN !
 
-![italla]({{ site.baseurl }}/assets/italla.png)
+![italla](../assets/italla.png)
 
 Jarig ! en als je nog geen kado had bedacht, gaarne 1 kopje  !
 
@@ -469,7 +469,7 @@ Meer winkels kan je vinden met de Store Locator
 
 ### June 1, 2011 : OP OEROL “HET JAAR VAN DE SCHLAGER”
 
-![bergenbos]({{ site.baseurl }}/assets/bergenbos.jpg)
+![bergenbos](../assets/bergenbos.jpg)
 
 Onder bezielende leiding van Timo bouwden wij het spectaculaire decor voor toneelgroep Berg & Bos
 
@@ -477,13 +477,13 @@ Ga allen kijken !  meer informatie
 
 ### May 30, 2011 : SOPHIE: WRAK AAN DE MUUR
 
-![sophie]({{ site.baseurl }}/assets/sophie.png)
+![sophie](../assets/sophie.png)
 
 Sophie Walraven exposeert aanstaande zondag (de 5e) op autosloop de Amstel de door haar beschilderde autowrakken, als je iets moois ziet maakt ze een zacht prijsje en wordt het voor je ter plaatse eruit gesneden.
 
 ### May 18, 2011 : HELSINKI: VOETBAL IS VOOR MIETJES
 
-![helsinki]({{ site.baseurl }}/assets/helsinki.jpg)
+![helsinki](../assets/helsinki.jpg)
 
 Toen ik hier zondag avond aankwam was het doodstil op straat. Aangekomen in het hotel was er niemand bij de receptie en in het restaurant werd ik een beetje boos en bevreemd aangekeken. (wie was ik wel niet dat ik een hapje dacht te kunnen komen eten). Toen ik een blik in de keuken wierp werd één en ander duidelijk: Finland verdedigde de wereld titel ijshockey en . . .  . WON !
 
@@ -491,7 +491,7 @@ Tot diep in de nacht juichende mensen en toeterende auto’s. De volgende dag ha
 
 ### April 29, 2011 : DE ZOMER KRIJG JE KADO VAN FLORIS
 
-![floris2]({{ site.baseurl }}/assets/floris2.png)
+![floris2](../assets/floris2.png)
 
 Mooie foto gemaakt door Irma
 
@@ -501,13 +501,13 @@ Meer foto’s met dank aan Driek
 
 ### April 24, 2011 : UITVOERING IN UTRECHT: MISERERE VAN ALEGRI
 
-![alegri]({{ site.baseurl }}/assets/alegri.png)
+![alegri](../assets/alegri.png)
 
 Na maanden braaf oefenen hebben we met onze stukken ten gehore gebracht in de Willibrordskerk in Utrecht. Hier een filmpje door Floris gemaakt
 
 ### April 21, 2011 : BRUINPAPIER IN PRAAG
 
-![praag]({{ site.baseurl }}/assets/praag.png)
+![praag](../assets/praag.png)
 
 Klinkt misschien een beetje smerig, maar was erg leuk. Hier om een start te maken aan het begeleiden van een nieuwe klant, als het een kleine beetje meezit kom ik hier vaker. Ik geloof dat ik ergens in de 90er jaren hier een keer geweest ben, maar het lijkt er niet op. De stad is hippig en fashionconsious geworden; de straten zijn zo opgepoetst dat een Zwitser groen van jalouzie zou wegtrekken. Maar gelukkig: tsjechen zijn nog steeds net zo grappig als toen. De gelatenheid over wat komen gaat en het vermogen om in weerwil daarvan dolgelukkig te zijn is er nog steeds.
 
@@ -515,7 +515,7 @@ Klinkt misschien een beetje smerig, maar was erg leuk. Hier om een start te make
 
 ### November 8, 2010 : Haloween
 
-![linda]({{ site.baseurl }}/assets/linda.png)
+![linda](../assets/linda.png)
 
 Liefje, ik heb denk ik een vuiltje in mijn oog
 
@@ -524,13 +524,13 @@ Ouderwets vrolijk feestje: Haloween partij in de Villa afgelopen weekend. Meer f
 ### October 22, 2010 : MEER MET MINDER
 Via kanalen nog niet eerder tot onze beschikking kwamen wij in contact met … tja met wie eigenlijk ? In ieder geval; ziehier ons huisje met niets te weinig èn nog veel belangrijker niets te veel.
 
-![terschelling1]({{ site.baseurl }}/assets/terschelling1.jpg)
+![terschelling1](../assets/terschelling1.jpg)
 
 Onder de overzwaaiende bundels van de brandaris (je kan ze bijna horen) hebben wij vandaag de sleutels van ons geheime huisje in West gekregen. Een oase van rust t.o.v. het immer hectische straatleven van de terschellinger metropool. We waren er nog slechts enkel minuten ingetrokken of we hadden al ons eerste bezoek, Douwe en Chappie !
 
 ### October 21, 2010 : FIETSEN NAAR “WEST”
 
-![terschelling2]({{ site.baseurl }}/assets/terschelling2.png)
+![terschelling2](../assets/terschelling2.png)
 
 >Ik vind dat we het moeten doen,  
 anders zijn we mietjes  
@@ -540,21 +540,21 @@ De problemen van de vakantie …..
 
 
 ### September 25, 2010 : GEVAARLIJKE STROMING
-![wilders]({{ site.baseurl }}/assets/wilders.png)
+![wilders](../assets/wilders.png)
 
 ### August 15, 2010 : BIJ DOUWE OP BEZOEK IN FRIESLAND
 
-![geit]({{ site.baseurl }}/assets/geit.jpg)
+![geit](../assets/geit.jpg)
 
 ### August 14, 2010 : LIVING COLOUR IN PARADISO
 
-![livingcolor]({{ site.baseurl }}/assets/livingcolor.png)
+![livingcolor](../assets/livingcolor.png)
 
 Heéééel goed idee van Teartse: als we niet buiten mogen spelen – dan gaan we wel iets leuks binnen doen !
 
 ### July 20, 2010 : VLLA OPENS THE EMERGENCY EXITS
 
-![vllaopen]({{ site.baseurl }}/assets/vllaopen.png)
+![vllaopen](../assets/vllaopen.png)
 
 Oppas of grootouders regelen, niet vertellen waar je heen gaat, anders willen ze mee en dan kan je weer opnieuw beginnen,Ik mag niet vertellen wat we gaan doen maar neem je dansbroek mee
 
@@ -568,25 +568,25 @@ Flightplan: No Clue
 
 ### July 20, 2010 : HET GRIJZE GEVAAR: MO(ZES)
 
-![mozes2]({{ site.baseurl }}/assets/mozes2.png)
+![mozes2](../assets/mozes2.png)
 
 Is aan komen lopen en bleef, woont nu hier op het dak en werpt zich op alles wat beweegt
 
 ### June 24, 2010 : CAMPEREN VOOR GEVORDERDEN
 
-![oxymoron1]({{ site.baseurl }}/assets/oxymoron1.png)
+![oxymoron1](../assets/oxymoron1.png)
 
 De oxymoron is bijna af, kom er in leven, werken en feesten tijdens het slotervaartfestival !
 
 ### June 19, 2010 : AC-DC PARIJS
 
-![acdc]({{ site.baseurl }}/assets/acdc.png)
+![acdc](../assets/acdc.png)
 
 Kadootje van zuster Thesa: Samen met Jan-Just naar AC-DC in Stade de France. Opa Angus speelt solo’s alsof hij 23 is. En alsof het niet op kon: Slash als voor programma ! Daarna nog eventjes een korte tussenstop bij La Famille alwaar we de lokale elfjes konden bewonderen om vervolgens het keurig af te sluiten in Les Jardins de Bagatelle
 
 ### June 15, 2010 : SLOTERVAART FESTIVAL
 
-![oxymoron2]({{ site.baseurl }}/assets/oxymoron2.png)
+![oxymoron2](../assets/oxymoron2.png)
 
 Misschien wel leuker dan het festival zelf: de opbouw van het terrein.
 
@@ -594,7 +594,7 @@ Onder de bezielende leiding van Bert Kramer bouwen we deze week een wonderschoon
 
 ### May 14, 2010 : HET DAK IS MOE !
 
-![ouddak]({{ site.baseurl }}/assets/ouddak.png)
+![ouddak](../assets/ouddak.png)
 
 Vandaag begonnen met het dak te slopen,  het is een godswonder dat we er niet eerder met zijn allen doorheen zijn gezakt
 
@@ -608,20 +608,20 @@ Minrebroederstraat 21
 
 ### March 13, 2010 : OPGEKNAPT EN .. .. WEG ERMEE !
 
-![zeekoe]({{ site.baseurl }}/assets/zeekoe.png)
+![zeekoe](../assets/zeekoe.png)
 
 Met pijn aan mijn hart moet ik mededelen geen boot meer te hebben. Schijnt heel modern te zijn: asset-light living (is vooral een hoop minder gedoe)
 
 ### December 21, 2009 : SNEEUWKETTINGEN OM IN AMSTERDAM
 
-![sneeuw]({{ site.baseurl }}/assets/sneeuw.png)
+![sneeuw](../assets/sneeuw.png)
 
 Of gewoon vragen of mensen even willen duwen om de brug op te komen. Vannochtend wakker geworden in een spierwit en prachtig stil Amsterdam. Sneeuwpoppen bouwen en daarna verdiende warme chocolade melk drinken. Een feestje
 
 
 ### November 2, 2009 : NIEUWE WAGEN EN ….
 
-![bmw]({{ site.baseurl }}/assets/bmw.png)
+![bmw](../assets/bmw.png)
 
 Een mooie klus is mijn kant op geschoven !
 
@@ -630,14 +630,14 @@ Ik ga met dezelfde Club als waar ik Don Quichote achtige dingen mee in Zweden he
 Later meer gr F
 
 Decemeber 4, 2008 :KLAAR ! TERUG NAAR AMSTERDAM
-![swedenweg]({{ site.baseurl }}/assets/swedenweg.png)
+![swedenweg](../assets/swedenweg.png)
 
 Heb het hier belachelijk fijn gehad, leukste project ooit ! Ga met pijn aan mijn hart terug naar amsterdam  Veel dank aan de zweden, de mensen van Vestas en Kienbaum
 
 ### November 4, 2007 : MINNE: “BEN EFFE NAAR ZWEDEN !”
 Op vrijdag met Floor en Ingrid naar Gothenburg gevlogen. Moeiteloos dit keer met aankomst volgens busboekje en medeneming van bagage. Zweedse degelijkheid straalt duidelijk af op de KLM die normaal gesproken van ieder reisje een groot logistiek avontuur maakt. In Gothenburg gefêteerd door Floor in designhotel met doorkijk zwembad op het dak.. jawel baantjes trekken met hoogtevrees. Zwembad steekt op acht hoog een meter het gebouw uit en juist aan die kant helemaal van glas. Prima manier om van al je angsten af te komen of er een berg onvermoede bij te krijgen.
 
-![ingridminne]({{ site.baseurl }}/assets/ingridminne.jpg)
+![ingridminne](../assets/ingridminne.jpg)
 
 >
 Gothenburg is bijzonder grappig. Eten in hippige Italiaan bediend door Zweedse boselfjes die je buiten komen ophalen als je effe staat te roken.. je koffie wordt koud hoor.. en daarna naar de disco, tot zeven uur ´s ochtend natuurlijk… onmiskenbaar en onvermijdelijk prisse.stedentripjes.nl. Van de ene giechelige club naar de anderen, wakker gehouden door kleine Zweedse toverdrankjes. Gelukkig op vrijdag want zaterdag schijnt iedereen halverwege de nacht alleen nog maar te kunnen kotsen en daar waren we niet op gekleed.
@@ -670,7 +670,7 @@ Het huis is heel comfortabel en warm genoeg. Floor en ik zijn weg van de hoge te
 >
 Floor werkt zich suf; gaat vroeg weg , komt laat thuis en gaat na het eten nog verder. In het weekend hebben we een stukje gelopen, hier wat om het huis gerommeld; grasmaaien etc en floor heeft zijn verzameling klimtuigjes geordend en van olie ontdaan. Daarna zijn we naar Gotenburg gegaan en hebben we erg lekker italiaans gegeten.
 
-![windturbine]({{ site.baseurl }}/assets/windturbine.png)
+![windturbine](../assets/windturbine.png)
 
 >
 Maandag’s deed hij op eigen verzoek mee aan een klimtraining reddingen van monteurs die in moeilijkheden zijn geraakt tijdens het uitvoeren van onderhoudswerkzaamheden bovenin en buiten de windmolen; heel hoog dus en even niet aan denken.
@@ -683,7 +683,7 @@ Louise
 
 ### September 21, 2007 : MOEDER OP BEZOEK IN FALKENBERG
 
-![moedersweden]({{ site.baseurl }}/assets/moedersweden.png)
+![moedersweden](../assets/moedersweden.png)
 
 Ja het is zover: moeder op kantoor !
 
@@ -691,17 +691,17 @@ Dit weekend en de volgende week is mijn moeder in zweden, nu nog even bedenken w
 
 ### September 20, 2007 : WENNEN AAN HET LICHT
 
-![lichtnoord]({{ site.baseurl }}/assets/lichtnoord.png)
+![lichtnoord](../assets/lichtnoord.png)
 
 Nu de winter nadert en de dagen korter worden word de gemiddelde zweed zwaarmoediger, dat is geen wonder als je ziet hoelang de zon boven de horizon uit komt ‘s winters in het noorden.
 
 ### August 23, 2007 : VANOCHTEND 06:20 FIJN WAKKER WORDEN HIER !
 
-![sardal3]({{ site.baseurl }}/assets/sardal3.png)
+![sardal3](../assets/sardal3.png)
 
 ### August 19, 2007 : EERSTE NACHT IN HET HUIS
 
-![sardal2]({{ site.baseurl }}/assets/sardal2.png)
+![sardal2](../assets/sardal2.png)
 
 Vannacht voor het eerst in het huis geslapen. Ik kwam er laat aan (23:00) na een wat uitgelopen vergadering, maar ze hadden een lichtje voor me aangelaten.
 
@@ -709,7 +709,7 @@ Op mijn kussen hadden ze een kadootje voor me achtergelaten: Een boekje met de t
 
 ### August 17, 2007 : OOK IN AMSTERDAM EEN BEETJE VERHUIZEN
 
-![bouwtek]({{ site.baseurl }}/assets/bouwtek.png)
+![bouwtek](../assets/bouwtek.png)
 
 Dit zijn de oude tekeningen uit het panden archief (met dank aan bart)
 
@@ -731,7 +731,7 @@ Ik maak me een beetje zorgen over die “grotere dieren”
 
 ### August 16, 2007 : TERMS OF ENDEARMENT
 
-![sardal1]({{ site.baseurl }}/assets/sardal1.png)
+![sardal1](../assets/sardal1.png)
 pad naar het strand
 
   First of all many thanks for the trust and kindness of Dandenell Family, I feel honoured and privileged that I can stay this fall and winter in the house that they all love so much.
@@ -771,7 +771,7 @@ pad naar het strand
 
 GADGET VAN LINKSYS
 
-![gsmwifi]({{ site.baseurl }}/assets/gsmwifi.png)
+![gsmwifi](../assets/gsmwifi.png)
 
 Vandaag ontvangen per post: de 3G router van Linksys.
 
@@ -781,7 +781,7 @@ Dus op zoek naar een oplossing: de 3G router van linksys, kaart van klant erin, 
 
 ### August 11, 2007 : GOTHENBURG
 
-![gothenborg]({{ site.baseurl }}/assets/gothenborg.png)
+![gothenborg](../assets/gothenborg.png)
 
 Een weekendje gotheborg: was eigenlijk van plan ergens te kamperen, maar toen gisteren de regen tegen het raam van het kantoor striemende, heb ik toch maar tot een stedentrip besloten.
 
@@ -793,7 +793,7 @@ http://www.parklane.se/ Wat je daar moet doen weet bijna niemand maar als je all
 
 ### August 11, 2007 : GOTHENBORG PLAN
 
-![gothenborg2]({{ site.baseurl }}/assets/gothenborg2.png)
+![gothenborg2](../assets/gothenborg2.png)
 
 Ben zo verstandig geweest alle uitgaanstips die lieftallige elfjes mij hebben toegefluisterd op te schrijven voor dat ik naar bed ging(met veel dank aan de lieftallige bardame met pen). nu alles braaf opgezocht
 
@@ -811,7 +811,7 @@ Ben zo verstandig geweest alle uitgaanstips die lieftallige elfjes mij hebben to
 
 ### August 11, 2007 : SARDAL
 
-![sardal0]({{ site.baseurl }}/assets/sardal0.png)
+![sardal0](../assets/sardal0.png)
 
 Ik ben hier op zoek naar en fijn huisje aan zee om te wonen tot ik weer naar huis toe mag.
 
@@ -841,6 +841,6 @@ Huis gespot door mijn trouwe makelaar (ja ze bestaan) Fiets er langs en laat me 
 
 ### August 4, 2007 : HELLO WORLD !
 
-![floor]({{ site.baseurl }}/assets/floor.png)
+![floor](../assets/floor.png)
 
 Zweden ! Hier ben ik de komende maanden aan het werk. Ben geen enorm schrijver maar ga wel een beetje bijhouden waar ik ben en wat ik doe.
